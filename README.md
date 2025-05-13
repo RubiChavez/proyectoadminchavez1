@@ -6,3 +6,5 @@ Fases y actividades de la materia Administración de Proyectos 1 UACM PMI y PMBo
 - IV. CIERRE
 
   Elaboro. Rubi Chávez López
+
+fecha 13/05/2025
